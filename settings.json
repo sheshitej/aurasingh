@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "aurastealsmp.aternos.me",
-    "port": 60806,
+    "ip": 
     "version": "",
     "try-creative": false
   },
